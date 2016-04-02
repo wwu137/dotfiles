@@ -1,0 +1,1 @@
+/Users/wwu/.zshrc
